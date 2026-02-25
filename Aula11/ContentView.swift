@@ -14,6 +14,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Ola Mundo")
+
+            Text("Rebase")
+            
             Button("Oi") {
                 print("tchau")
             }
