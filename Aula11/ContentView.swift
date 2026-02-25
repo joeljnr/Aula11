@@ -14,7 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Ola Mundo")
-
+            Text("antes do rebase")
             Text("Rebase")
             
             Button("Oi") {
